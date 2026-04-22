@@ -39,4 +39,13 @@ Standardized text fields (gender, state)
 Fixed data types (dates, numbers)
 Used basic validation and formatting in Google Sheets
 
+5. Recommendations
+Add primary keys to all tables
+Define clear data structure and column descriptions
+Use data validation (dropdowns, formats)
+Avoid missing critical fields (e.g., quantity, IDs)
+
+7. Conclusion
+The data required cleaning but is now more consistent and ready for analysis.
+After improvements, it can be used for reliable business insights.
 
