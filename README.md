@@ -50,5 +50,5 @@ The data required cleaning but is now more consistent and ready for analysis.
 After improvements, it can be used for reliable business insights.
 
 
-Notice, the xlsx file Data Cleaning and Reporting in GoogleSheets icludes RAW data and Clean data ob different sheets. 
+Notice, the xlsx file Data Cleaning and Reporting in GoogleSheets icludes RAW data and Clean data on different sheets. 
 
